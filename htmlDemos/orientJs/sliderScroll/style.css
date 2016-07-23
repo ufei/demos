@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+}
+html,body{
+    width:100%;
+}
+
+header{
+    height:260px;
+    background-color:moccasin;
+}
+.content{
+    width:1000px;
+    height:2000px;
+    margin:20px auto;
+}
+.content aside{
+    position:relative;
+    width:280px;
+    height:500px;
+
+    float:left;
+    background-color: #eeeeee;
+}
+.content section{
+    width:700px;
+    height:inherit;
+    margin-left:300px;
+    background-color:#eeeeee;
+}
+.content section:after{
+    clear: both;
+}
+
+footer{
+    height:300px;
+    background-color: black;
+}

@@ -1,29 +1,22 @@
 /**
- * Created by ufei on 2016/7/19.
+ * Created by ufei on 2016/7/23.
  */
 
-var Tim = React.createClass({displayName: "Tim",
+var Hello = React.createClass({displayName: "Hello",
     getInitialState:function(){
-        return {time:0}
+        return {
+            name:""
+        };
     },
-    tim:function(){
-        return this.setState({time:this.state.time+1})
+    handleChange:function(event){
+        this.setState({name:event.target.value});
+        console.log(this.state.name);
     },
-    componentDidMount:function(){
-        this.interval=setInterval(this.tim,100);
-    },
-    componentDidUpdate:function(){
-        if(this.state.time>30){
-            console.log("ok");
-            this.componentWillUnmount();
-        }
-    },
-    componentWillUnmount:function() {
-        clearInterval(this.interval);
-    },
-    render:function(){
-        return React.createElement("div", null, React.createElement("h1", null, "Hello world"), React.createElement("p", null, this.state.time))
+    render: function(){
+        return React.createElement("div", null, 
+        React.createElement("a", null, " hello ", this.state.name ? this.state.name : "world"), 
+            React.createElement("input", {type: "text", onChange: this.handleChange})
+        )
     }
 });
-
-ReactDOM.render(React.createElement(Tim, null),document.getElementById('example'));
+ReactDOM.render(React.createElement(Hello, null),document.getElementById('hello'));
