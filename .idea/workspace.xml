@@ -2,71 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c25c415-433b-4954-a6e8-51923173980a" name="Default" comment="修改ignore文件">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/demoChildrenProcess/test_add" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/images/00_bird.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/images/01_background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/images/02_brank.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/images/Evernote_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/images/facebook_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/images/github_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/images/gplus_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/images/sina_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htmlDemos/orientJs/arrayExample/example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htmlDemos/orientJs/arrayExample/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htmlDemos/orientJs/example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htmlDemos/orientJs/example.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htmlDemos/orientJs/regExp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htmlDemos/orientJs/regExp/inspectEmail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/demoChildrenProcess/nodeAdd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/demoChildrenProcess/npm-debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/demoChildrenProcess/run_main.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/heatMapDemo/2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/heatMapDemo/3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/heatMapDemo/4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/heatMapDemo/heatmap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/heatMapDemo/heatmap_D1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/heatMapDemo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/heatMapDemo/leaflet-heatmap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/heatMapDemo/testData.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/.idea/blog.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/.idea/libraries/blog_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/bin/www" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/css/index_mist.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/javascripts/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/javascripts/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/javascripts/jquery-2.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/less/index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/public/less/index_mist.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/routes/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/static/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/rookie/views/index.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/study/1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/study/1.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/study/a.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/study/boxStyle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/study/css.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/study/css3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/study/demo1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/study/filedemo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/study/pathdemo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/study/reqDemo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/study/simpleAngularDemo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/study/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejsDemos/study/test.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="demos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,11 +34,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nodejsDemos/rookie/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="102" column="25" selection-start-line="102" selection-start-column="25" selection-end-line="102" selection-end-column="25" />
+            <state relative-caret-position="383">
+              <caret line="98" column="14" selection-start-line="98" selection-start-column="14" selection-end-line="98" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tableScroll.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htmlDemos/orientJs/tableSelect/tableScroll.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nodeAdd.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nodejsDemos/demoChildrenProcess/nodeAdd.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helloWorld.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reactDemos/helloWorld.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reactHello.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reactDemos/reactHello.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hello.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reactDemos/build/hello.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -151,6 +148,7 @@
         <option value="$PROJECT_DIR$/htmlDemos/orientJs/regExp/index.html" />
         <option value="$PROJECT_DIR$/htmlDemos/orientJs/example.html" />
         <option value="$PROJECT_DIR$/htmlDemos/orientJs/example.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -205,6 +203,70 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reactDemos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reactDemos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlDemos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="orientJs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlDemos" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -322,7 +384,7 @@
       <workItem from="1469371659122" duration="1010000" />
       <workItem from="1469432510732" duration="7066000" />
       <workItem from="1469500743231" duration="595000" />
-      <workItem from="1469527081401" duration="606000" />
+      <workItem from="1469527081401" duration="2199000" />
     </task>
     <task id="LOCAL-00001" summary="添加了react的两个demo，两个html的demo例子">
       <created>1469170293722</created>
@@ -359,20 +421,27 @@
       <option name="project" value="LOCAL" />
       <updated>1469275229316</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="修改ignore文件">
+      <created>1469527737386</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1469527737386</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40737000" />
+    <option name="totallyTimeSpent" value="42330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14427084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14609705" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5720339" sideWeight="0.49375" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5720339" sideWeight="0.50625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5869565" sideWeight="0.49367088" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17608696" sideWeight="0.5063291" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19385593" sideWeight="0.31666666" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -400,23 +469,18 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="添加了react的两个demo，两个html的demo例子" />
     <MESSAGE value="添加demo" />
     <MESSAGE value="修改ignore文件" />
     <option name="LAST_COMMIT_MESSAGE" value="修改ignore文件" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/htmlDemos/orientJs/tableSelect/tableSelect.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/htmlDemos/orientJs/tableSelect/tableScroll.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -499,13 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -628,53 +685,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reactDemos/build/hello.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reactDemos/helloWorld.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/htmlDemos/orientJs/arrayExample/index.html" />
     <entry file="file://$PROJECT_DIR$/reactDemos/src/hello.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reactDemos/formDemo_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reactDemos/build/form_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reactDemos/reactHello.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlDemos/orientJs/tableSelect/tableScroll.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -755,8 +770,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nodejsDemos/rookie/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="102" column="25" selection-start-line="102" selection-start-column="25" selection-end-line="102" selection-end-column="25" />
+        <state relative-caret-position="383">
+          <caret line="98" column="14" selection-start-line="98" selection-start-column="14" selection-end-line="98" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reactDemos/build/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reactDemos/reactHello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reactDemos/build/form_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reactDemos/helloWorld.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reactDemos/formDemo_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejsDemos/demoChildrenProcess/nodeAdd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlDemos/orientJs/tableSelect/tableScroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
           <folding />
         </state>
       </provider>
