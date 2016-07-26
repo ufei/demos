@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>拖拽div</title>
+</head>
+<body>
+	<div style="background-color: #4F4F4F ;height:400px; width:400px;position:absolute" id ="panel">
+		<div style="height:50px; background-color: blue" id="header"></div>
+	</div>
+
+	<script type="text/javascript">
+		var a =document.getElementById('panel');
+		var b = document.getElementById('header');
+
+		var mouseDrag = {
+			obj:null,
+			target:null,
+			tmpX:0,
+			tmpY:0,
+			init:function(target,obj){
+				this.obj = obj;
+				this.target = target;
+				obj.onmousedown = this.start;
+			},
+			start:function(e){
+				console.log(this);
+				console.log(this.offsetLeft);
+				e.preventDefault && e.preventDefault();
+				mouseDrag.tmpX = e.clientX-mouseDrag.target.offsetLeft;
+				mouseDrag.tmpY=e.clientY-mouseDrag.target.offsetTop;
+				document.onmousemove = mouseDrag.move;
+				document.onmouseup = mouseDrag.end;
+			},
+			move:function(e){
+				mouseDrag.target.style.left = e.clientX-mouseDrag.tmpX+'px';
+				mouseDrag.target.style.top = e.clientY-mouseDrag.tmpY+'px';
+			},
+			end:function(e){
+				 document.onmousemove = document.onmouseup = null;
+			}
+		};
+		mouseDrag.init(a,b);
+	</script>
+</body>
+</html>
