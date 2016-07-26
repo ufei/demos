@@ -1,0 +1,29 @@
+/* author : ufeiwwz
+*/
+
+*,html{
+    width:100%;
+}
+body{
+    width:100%;
+}
+#modal{
+    position:absolute;
+
+    width:500px;
+    height:400px;
+    margin-left:auto;
+    margin-right:auto;
+
+    background-color: cadetblue;
+    border:1px solid cadetblue;
+}
+.modal-title,.modal-footer{
+    height:30px;
+
+
+    background-color: white;
+}
+.modal-content{
+    height:340px;
+}
