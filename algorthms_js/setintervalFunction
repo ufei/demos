@@ -1,0 +1,10 @@
+
+
+function aa(count){
+    console.log(count--);
+    if(count!=0){
+        var timer = setTimeout(function(){
+            aa(count);
+        },1000);
+    }
+}
